@@ -242,7 +242,6 @@
 | ProKanban.org | Free Kanban Flow Metrics assessment | [Link](https://prokanban.org/small-batch-certifications/) | Unlimited |
 | ATLASSIAN University | Confluence Fundamentals Badge | [Link](https://university.atlassian.com/student/path/861302/activity/2832257) | Unlimited |
 | ATLASSIAN University | Beginner's Guide to Agile in Jira Badge| [Link](https://university.atlassian.com/student/path/1113130-apply-agile-practices-to-manage-your-work) | Unlimited |
-
-|Linkedin Learn |Descubra a inteligencia artificial generativa|[Link]https://www.linkedin.com/learning/descubra-a-inteligencia-artificial-generativa/a-importancia-da-ia-generativa?autoSkip=true&resume=false| Unknown |
+| Linkedin Learn |Descubra a inteligencia artificial generativa | [Link](https://www.linkedin.com/learning/descubra-a-inteligencia-artificial-generativa/a-importancia-da-ia-generativa?autoSkip=true&resume=false) | Unknown |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
